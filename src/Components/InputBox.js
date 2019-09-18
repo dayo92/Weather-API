@@ -6,7 +6,7 @@ const InputBox = (props) => {
     return (
         <div className="head">
             <div className="inputBox">
-                <h1>Weather-API</h1>
+                <h1> React Weather-API</h1>
                 <br></br>
                     <form onSubmit={props.testing}>
                         <input text="text" name="textField"></input>
